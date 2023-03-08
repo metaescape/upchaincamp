@@ -8,4 +8,4 @@
 ![tx](tx.png)
 
 # Counter in solidity
-![Counter.sol](Counter.sol)
+[Counter.sol](./Counter.sol)
