@@ -12,7 +12,7 @@ contract Counter {
         counter += 1;
     }
 
-    function add(uint x) public {
+    function add(uint256 x) public {
         counter =  counter + x;
     }
 
