@@ -9,6 +9,10 @@
 3. 使用 Hardhat 测试 Counter:
 
    [count_test.js](test/count_test.js)
+
    - Case1: 部署者成功调用 count()
    - Case2: 其他地址调用 count() 失败
+
 4. 代码开源到区块浏览器(npx hardhat verify ...) /写上合约地址
+
+[合约 0x289c1f2b256d432df5CCAc83E109C6160691100f goerliscan](https://goerli.etherscan.io/address/0x289c1f2b256d432df5CCAc83E109C6160691100f)
