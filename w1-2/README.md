@@ -1,10 +1,10 @@
 1. 修改 Counter 合约，仅有部署者可以调用 count()
 
-   [Counter.sol](./Counter.sol)
+   [Counter.sol](contracts/Counter.sol)
 
 2. 使用 hardhat 部署修改后的 Counter
 
-   [deploy.js](script/deploy.js)
+   [deploy.js](scripts/deploy.js)
 
 3. 使用 Hardhat 测试 Counter:
 
